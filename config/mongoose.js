@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-mongoose.connect('mongodb+srv://sparsh:polling@cluster0.gfbmbr4.mongodb.net/');
+mongoose.connect('mongodb+srv://rajeshpushp21:LwHbKUPbHRO0EweI@rajapi.qmenhky.mongodb.net/');
 
 // Code for using the cloud mongodb atlas 
 const connectParams={
